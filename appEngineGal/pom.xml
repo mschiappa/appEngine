@@ -1,0 +1,13 @@
+
+<Body 	xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+<ns2:GetEventPPVResponse 	xmlns:ns2="ar.com.cablevision.osb.EXP.salesManagement.getEventPPVInformation">
+<ns2:onuEventoId>123</ns2:onuEventoId>
+<ns2:osbDescripcion>Evento de prueba</ns2:osbDescripcion>
+<ns2:osbTipoEvento>EV1FLOW</ns2:osbTipoEvento>
+<ns2:odtFechaInicio>2019-08-08T10:22:36.000-03:00</ns2:odtFechaInicio>
+<ns2:odtFechaFin>2019-08-11T10:22:36.000-03:00</ns2:odtFechaFin>
+<ns2:onuImporte>10.51</ns2:onuImporte>
+<ns2:onuCodigoError>0</ns2:onuCodigoError>
+<ns2:osbMensajeError>-</ns2:osbMensajeError>
+</ns2:GetEventPPVResponse>
+</Body>
